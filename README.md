@@ -20,7 +20,7 @@ WebApp - Conections visualization sample:
 ## Project Plan - How I plan to do it
 
 I plan to develop the project using HTML, CSS, JavaScript, Node.js, and D3.js.
-I have mainly divided the project into three phases.
+I have mainly divided the project into four phases.
 
 1. Initial structure and front-end
 2. Contacts connections visualization (D3.js)
