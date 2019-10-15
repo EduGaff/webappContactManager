@@ -31,10 +31,10 @@ I have mainly divided the project into three phases.
 
 First fase milestones:
 
-[ ] Bootstrap 4 front-end;
-[ ] Localhost contacts objects;
-[ ] Forms to create and edit contacts;
-[ ] Forms to create and edit relationships;
+- [ ] Bootstrap 4 front-end;
+- [ ] Localhost contacts objects;
+- [ ] Forms to create and edit contacts;
+- [ ] Forms to create and edit relationships;
 
 ### 2. Contacts connections visualization (D3.js)
 
